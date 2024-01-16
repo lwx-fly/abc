@@ -1,6 +1,18 @@
 # Table of contents
 
 * [Mysql](README.md)
+  * [日志](mysql/ri-zhi/README.md)
+    * [binlog](mysql/ri-zhi/binlog.md)
+    * [redolog](mysql/ri-zhi/redolog.md)
+    * [undolog](mysql/ri-zhi/undolog.md)
+  * [锁](mysql/suo.md)
+  * [索引](mysql/suo-yin/README.md)
+    * [类型](mysql/suo-yin/lei-xing.md)
+    * [走错索引](mysql/suo-yin/zou-cuo-suo-yin.md)
+    * [失效情形](mysql/suo-yin/shi-xiao-qing-xing.md)
+  * [高可用](mysql/gao-ke-yong.md)
+  * [事务](mysql/shi-wu.md)
+  * [应用](mysql/ying-yong.md)
 * [基础](ji-chu/README.md)
   * [集合](ji-chu/ji-he.md)
   * [动态代理](ji-chu/dong-tai-dai-li.md)
