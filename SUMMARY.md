@@ -1,7 +1,9 @@
 # Table of contents
 
 * [Mysql](README.md)
-* [Page 2](page-2.md)
+* [基础](ji-chu/README.md)
+  * [集合](ji-chu/ji-he.md)
+  * [动态代理](ji-chu/dong-tai-dai-li.md)
 * [jvm](jvm/README.md)
   * [垃圾回收](jvm/la-ji-hui-shou.md)
   * [内存分布](jvm/nei-cun-fen-bu.md)
@@ -9,8 +11,9 @@
   * [Page 1](jvm/page-1.md)
 * [多线程](duo-xian-cheng.md)
 * [netty](netty.md)
-
-## Group 1
-
-* [集合](group-1/ji-he.md)
-* [动态代理](group-1/dong-tai-dai-li.md)
+* [代码设计](dai-ma-she-ji/README.md)
+  * [客户绑定流程优化](dai-ma-she-ji/ke-hu-bang-ding-liu-cheng-you-hua.md)
+  * [kpi模板导出](dai-ma-she-ji/kpi-mo-ban-dao-chu.md)
+* [调优](tiao-you/README.md)
+  * [JVM](tiao-you/jvm.md)
+  * [SQL](tiao-you/sql.md)
