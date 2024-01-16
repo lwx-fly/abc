@@ -1,4 +1,8 @@
-# Mysql
+---
+description: m
+---
+
+# mysql
 
 * 连接器
 * ~~查询缓存【8.0开始废弃】~~
