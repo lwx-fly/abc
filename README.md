@@ -1,7 +1,3 @@
----
-description: m
----
-
 # mysql
 
 * 连接器
@@ -10,3 +6,4 @@ description: m
 * 优化器【索引选择】
 * 执行器
 * 存储引擎
+
