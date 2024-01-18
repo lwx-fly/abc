@@ -6,7 +6,7 @@
     * [redolog](mysql/ri-zhi/redolog.md)
     * [undolog](mysql/ri-zhi/undolog.md)
   * [锁](mysql/suo.md)
-  * [Page](mysql/page.md)
+  * [数据类型](mysql/shu-ju-lei-xing.md)
   * [index](mysql/index/README.md)
     * [类型](mysql/index/lei-xing.md)
     * [走错索引](mysql/index/zou-cuo-suo-yin.md)
