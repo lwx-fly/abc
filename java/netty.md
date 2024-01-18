@@ -12,10 +12,9 @@ Reactor 流程
 * reactor事件分发。如果查询到了io事件，就分发给对应的处理器。
 * handler。业务处理。
 
-netty 核心组件
+## netty 核心组件
 
 * channel
 * eventLoopGroup【reactor】
 * pipeline【双向链表】
 * selector
-

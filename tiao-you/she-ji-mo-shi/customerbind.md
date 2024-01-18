@@ -1,14 +1,8 @@
----
-description: 客户绑定
----
+# 客户绑定
 
-# customerBind
-
-> 会员id/微信unionId 多种绑定方式支持&#x20;
+> 会员id/微信unionId 多种绑定方式支持
 >
 > 后台绑定和openApi等多种渠道和节点自定义支持
-
-
 
 ### 引用概览
 
@@ -20,8 +14,6 @@ description: 客户绑定
 
 * 绑定event定义。绑定、解绑、换绑。使用策略模式+模板方法
 * action定义。将公共逻辑提取成action，便于复用和拓展。
-
-
 
 ```java
 public abstract class AbstractGuideRelationEvent implements ApiGuideRelationEvent {
