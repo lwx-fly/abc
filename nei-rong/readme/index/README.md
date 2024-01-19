@@ -1,20 +1,19 @@
-# index
+# 索引
 
 ## 原则
 
 * 最左前缀
 
+## 覆盖索引
+
+* 避免回表
+* explain extra 中using index
 
 
 
+## 索引下推
 
-## <mark style="color:red;">联合索引</mark>
-
-> 有a b c 列组成的联合索引
-
-* a and b 或者 b and a 可以走到索引
-* 单独通过b 或c 查询 走不到索引
-
-
+* 在索引列上进行查询，避免回表
+* explain extra  中useing index condition
 
 ##
