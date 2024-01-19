@@ -1,8 +1,4 @@
----
-description: SQL
----
-
-# SQL
+# 项目优化
 
 #### sql
 
